@@ -35,3 +35,7 @@
 - [x] Style the "select" menus (drop down menus) on the form, so they match the styling of the text fields (see Resources links for an article on how to improve the look of select menus using CSS and JavaScript).
 
 - [x] Validate the credit card number so that it's a validly formatted credit card number.
+
+## View Project
+
+View live demo of project [here.](https://jrdukes.github.io/interactive-form-v2/)
