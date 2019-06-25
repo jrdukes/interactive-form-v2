@@ -1,4 +1,4 @@
-# Build an Interactive Form - Treehouse Project 3
+# Interactive Form for Full Stack Developer Conference
 
 ## Requirements
 
